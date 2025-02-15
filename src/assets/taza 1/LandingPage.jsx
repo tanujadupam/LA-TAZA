@@ -1,4 +1,4 @@
-import React from 'react';
+import 'react';
 import './landingpage.css';
 import BookTable from './BookTable'; // Import the new component
 
