@@ -1,4 +1,4 @@
-import React from 'react';
+import 'react';
 import './Header.css';
 import { FaSignInAlt, FaUserPlus } from 'react-icons/fa';
 
