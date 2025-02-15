@@ -1,7 +1,7 @@
 import 'react';
 import Header from './Header';
 import Footer from './Footer';
-import LandingPage from './LandingPage';
+import LandingPage from './landingpage';
 
 const App = () => {
   return (
